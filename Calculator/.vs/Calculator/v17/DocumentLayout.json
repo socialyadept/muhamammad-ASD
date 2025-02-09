@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KumailM\\source\\repos\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E94D9CF-C0D4-4D46-9F83-13860BB5A729}|Calculator\\Calculator.CLI.csproj|c:\\users\\kumailm\\source\\repos\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E94D9CF-C0D4-4D46-9F83-13860BB5A729}|Calculator\\Calculator.CLI.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A77FE6-089C-47DA-8FB1-A3EFF35741FF}|Calculator.Tests\\Calculator.Tests.csproj|c:\\users\\kumailm\\source\\repos\\calculator\\calculator.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A77FE6-089C-47DA-8FB1-A3EFF35741FF}|Calculator.Tests\\Calculator.Tests.csproj|solutionrelative:calculator.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8E5B99-4944-4DB6-BEDF-EC45734C6C03}|Calculator.Core\\Calculator.Core.csproj|c:\\users\\kumailm\\source\\repos\\calculator\\calculator.core\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8E5B99-4944-4DB6-BEDF-EC45734C6C03}|Calculator.Core\\Calculator.Core.csproj|solutionrelative:calculator.core\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E94D9CF-C0D4-4D46-9F83-13860BB5A729}|Calculator\\Calculator.CLI.csproj|c:\\users\\kumailm\\source\\repos\\calculator\\calculator\\calculator.cli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E94D9CF-C0D4-4D46-9F83-13860BB5A729}|Calculator\\Calculator.CLI.csproj|solutionrelative:calculator\\calculator.cli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A77FE6-089C-47DA-8FB1-A3EFF35741FF}|Calculator.Tests\\Calculator.Tests.csproj|c:\\users\\kumailm\\source\\repos\\calculator\\calculator.tests\\calculator.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0A77FE6-089C-47DA-8FB1-A3EFF35741FF}|Calculator.Tests\\Calculator.Tests.csproj|solutionrelative:calculator.tests\\calculator.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\KumailM\\source\\repos\\Calculator\\Calculator.Tests\\Calculator.Tests.csproj",
+              "RelativeDocumentMoniker": "Calculator.Tests\\Calculator.Tests.csproj",
+              "ToolTip": "C:\\Users\\KumailM\\source\\repos\\Calculator\\Calculator.Tests\\Calculator.Tests.csproj",
+              "RelativeToolTip": "Calculator.Tests\\Calculator.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T19:34:47.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\KumailM\\source\\repos\\Calculator\\Calculator.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "Calculator.Tests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\KumailM\\source\\repos\\Calculator\\Calculator.Tests\\CalculatorTests.cs",
+              "RelativeToolTip": "Calculator.Tests\\CalculatorTests.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwFkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:31:26.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\KumailM\\source\\repos\\Calculator\\Calculator.Core\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.Core\\Calculator.cs",
+              "ToolTip": "C:\\Users\\KumailM\\source\\repos\\Calculator\\Calculator.Core\\Calculator.cs",
+              "RelativeToolTip": "Calculator.Core\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:30:11.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.CLI.csproj",
+              "DocumentMoniker": "C:\\Users\\KumailM\\source\\repos\\Calculator\\Calculator\\Calculator.CLI.csproj",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.CLI.csproj",
+              "ToolTip": "C:\\Users\\KumailM\\source\\repos\\Calculator\\Calculator\\Calculator.CLI.csproj",
+              "RelativeToolTip": "Calculator\\Calculator.CLI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T19:22:39.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KumailM\\source\\repos\\Calculator\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\KumailM\\source\\repos\\Calculator\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:13:17.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
